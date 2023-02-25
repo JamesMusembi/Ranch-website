@@ -10,3 +10,13 @@
     justify-content: center;
     align-items: center;
 }
+header nav{
+    display:flex;
+    justify-content: space-between;
+    padding:2% 0;
+    position: fixed;
+    width:100%;
+    z-index:999;
+    background-color:rgba(8, 8, 8, 0.8)
+    top:0;
+}

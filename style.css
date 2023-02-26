@@ -96,3 +96,10 @@ h1{
 .logo a:hover{
     color: #fff;
 }
+
+
+select {
+    padding: 1.4rem;
+    background: transparent;
+    border: 1px solid black;
+}

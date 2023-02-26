@@ -20,7 +20,7 @@ header nav{
     background-color:rgba(8, 8, 8, 0.8)
     top:0;
 }
-.logo{
+/* .logo{
     width: 280px;
     height: 370px;
     background: black;
@@ -46,9 +46,9 @@ h1{
     margin: 0;
     padding: 10px;
     font-weight: bold;
-}
+} */
 
-.logo input{
+/* .logo input{
     width: 100%;
     margin-bottom: 18px;
     border-radius: 4px;
@@ -64,7 +64,7 @@ h1{
     height: 20px;
     font-size: 16px;
 
-}
+} */
 
 .logo input[type="submit"]
 {

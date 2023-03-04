@@ -19,7 +19,8 @@ header nav{
     z-index:999;
     background-color:rgba(8, 8, 8, 0.8)
     top:0;
-}
+} 
+
 /* .logo{
     width: 280px;
     height: 370px;
@@ -102,4 +103,7 @@ select {
     padding: 1.4rem;
     background: transparent;
     border: 1px solid black;
+}
+img:hover{
+    background-color: black;
 }
